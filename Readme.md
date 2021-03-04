@@ -16,12 +16,6 @@ ESC: close window
 Features
 ========
 
-**character:**  
-* when idle char scanning region turning body left-right  
-* in rush moves legs and stretches 1px up-down to show run shaking  and breathing   
-* melee attack (right, left, swipe) with simple animation  
-* range attack  
-   
 * tiles of abyss. Player dies if falls
 * loose & win screens
 * more than 20 rooms; 10 different types
@@ -32,7 +26,11 @@ Features
 	* after death spawns an aggressive melee-attacking copy of himself and a pacifist copy  
 * animated torches which illuminates (changes color) the hero and enemies / environment  
 * animated treasure that gives 200 points(with notification) to the final score on win-screen
-
+**character:**  
+* when idle char scanning region turning body left-right  
+* in rush moves legs and stretches 1px up-down to show run shaking  and breathing   
+* melee attack (right, left, swipe) with simple animation  
+* range attack  
 
 plan.txt
 --------
