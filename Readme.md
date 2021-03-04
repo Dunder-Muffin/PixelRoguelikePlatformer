@@ -36,7 +36,7 @@ Features
 plan.txt
 --------
 A: big, all-doors room  
-a: 'A', but it's a starting point  
+a: 'A', but it's a starting point with no enemies
 B: long narrow vertical passage  
 C: long narrow horizontal passage  
 U, D, L, R: upper,lower(down), left or right dead-end room  
