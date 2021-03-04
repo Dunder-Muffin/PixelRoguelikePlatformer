@@ -1,8 +1,17 @@
+Run
+===
+	sudo apt install cmake  
+	sudo apt install libglfw3-dev  
+	cmake .  
+	make  
+	./bin/main
+	
 Control options
 ================
 f12: screenshot  
 arrows: range attack  
 left/right ctrl: melee attack  
+ESC: close window  
 
 Features
 ========
