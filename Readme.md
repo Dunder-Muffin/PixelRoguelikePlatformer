@@ -21,7 +21,7 @@ Features
 * in rush moves legs and stretches 1px up-down to show run shaking  and breathing   
 * melee attack (right, left, swipe) with simple animation  
 * range attack  
-  
+   
 * tiles of abyss. Player dies if falls
 * loose & win screens
 * more than 20 rooms; 10 different types
