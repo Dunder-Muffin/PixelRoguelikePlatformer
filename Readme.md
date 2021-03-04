@@ -25,7 +25,8 @@ Features
 	* throws fireballs  
 	* after death spawns an aggressive melee-attacking copy of himself and a pacifist copy  
 * animated torches which illuminates (changes color) the hero and enemies / environment  
-* animated treasure that gives 200 points(with notification) to the final score on win-screen
+* animated treasure that gives 200 points(with notification) to the final score on win-screen  
+  
 **character:**  
 * when idle char scanning region turning body left-right  
 * in rush moves legs and stretches 1px up-down to show run shaking  and breathing   
