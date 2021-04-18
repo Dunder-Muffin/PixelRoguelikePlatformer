@@ -1,3 +1,4 @@
+![Viking shot](screenshot.jpg)
 Run
 ===
 	sudo apt install cmake  
