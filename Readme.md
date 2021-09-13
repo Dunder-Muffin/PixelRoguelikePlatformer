@@ -9,6 +9,7 @@ Run
 	
 Control options
 ================
+W, A, S, D -move
 f12: screenshot  
 arrows: range attack  
 left/right ctrl: melee attack  
