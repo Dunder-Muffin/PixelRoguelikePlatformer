@@ -33,7 +33,7 @@ Features
 * when idle char scanning region turning body left-right  
 * in rush moves legs and stretches 1px up-down to show run shaking  and breathing   
 * melee attack (right, left, swipe) with simple animation  
-* range attack  
+* range attack (throwing axes)  
 
 plan.txt
 --------
