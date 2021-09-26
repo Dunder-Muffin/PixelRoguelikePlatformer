@@ -57,7 +57,7 @@ void processPlayerMovement(Player &player)
   else if (Input.keys[GLFW_KEY_D])
     player.ProcessInput(MovementDir::RIGHT);
 
-}///////////////////////////////]MYCODE[///////////////////////////////////////////////////////////
+}
 void processAdditionalKeyboardInteraction(Player &player, Image &screenBuffer, std::vector<Missle> &pMisseles)
 {
   static double lastShot = -2;
