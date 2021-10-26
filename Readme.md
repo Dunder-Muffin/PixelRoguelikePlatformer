@@ -1,6 +1,7 @@
 ![Viking shot](screenshot.jpg)
 Run
 ===
+	sudo apt install g++ 
 	sudo apt install cmake  
 	sudo apt install libglfw3-dev  
 	cmake .  
